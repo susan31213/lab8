@@ -1,0 +1,26 @@
+Script started on 2016年06月04日 (週六) 00時43分34秒
+]0;F74046014@2016cpp: ~/lab8[01;32mF74046014@2016cpp[00m:[01;34m~/lab8[00m$ cd lab7
+]0;F74046014@2016cpp: ~/lab8/lab7[01;32mF74046014@2016cpp[00m:[01;34m~/lab8/lab7[00m$ make
+g++ -o main genMino.o Mino.o MinoS.o Minol.o MinoT.o MinoL.o MinoLL.o MinoSS.o main.cpp
+]0;F74046014@2016cpp: ~/lab8/lab7[01;32mF74046014@2016cpp[00m:[01;34m~/lab8/lab7[00m$ ./main
+mino[0] new success
+mino[1] new success
+mino[2] new success
+mino[3] new success
+mino[4] new success
+mino[5] new success
+mino[6] new success
+mino[7] new success
+mino[8] new success
+mino[9] new success
+mino[10] new success
+mino[11] new success
+mino[12] new success
+mino[13] new success
+mino[14] new success
+mino[15] new success
+mino[16] new success
+Exception: std::bad_alloc
+]0;F74046014@2016cpp: ~/lab8/lab7[01;32mF74046014@2016cpp[00m:[01;34m~/lab8/lab7[00m$ exit
+
+Script done on 2016年06月04日 (週六) 00時44分11秒

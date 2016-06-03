@@ -1,0 +1,8 @@
+1. 若throw沒有對應的catch接則呼叫函式terminate,終止程式
+2. 3.0會被設成double type,沒有符合的catch,所以呼叫函式terminate終止程式
+3. 編譯&執行指令如下:
+	cd lab7
+	make
+	./main
+****lab8.script是script檔****
+
